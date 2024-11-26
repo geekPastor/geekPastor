@@ -1,3 +1,10 @@
 ### Hi ! 👋 I'm Geek Pastor <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" />
 
-[![Twitter Badge](https://img.shields.io/badge/-@geekpastor1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/geekPastor)](https://x.com/geekPastor1) [![Linkedin Badge](https://img.shields.io/badge/-yveskalume-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yveskalume)](https://www.linkedin.com/in/chrinovic-mukeba-5aa765230/) [![Medium Badge](https://img.shields.io/badge/-@yveskalume-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@yveskalume/)](https://medium.com/@chrinovicmm)
+I'm Android Developer
+
+
+<h3> 👨🏾‍💻 Recents activities </h3>
+
+<!--START_SECTION:activity-->
+1. ❗ Opened issue [#41](https://github.com/yveskalume/EventCademy/issues/41) in [yveskalume/EventCademy](https://github.com/yveskalume/EventCademy/issues/41)
+<!--END_SECTION:activity-->
