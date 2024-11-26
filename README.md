@@ -8,3 +8,11 @@ I'm Android Developer
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#41](https://github.com/yveskalume/EventCademy/issues/41) in [yveskalume/EventCademy](https://github.com/yveskalume/EventCademy/issues/41)
 <!--END_SECTION:activity-->
+
+<h3>🎤 My Presentations & Speeches</h3>
+Coming soon
+
+<h3> 👋🏾 Say Hello! </h3>
+
+- ⚡ Fun fact: I love food, therefore I love interacting with new people (I believe everyone can share with me a new delicacy!)
+- 💬 Feel free to [contact](https://x.com/geekPastor1) me about #AndroidDev, #Kotlin, Software engineering and Tech communities. Or just about anything that you want to know or discuss, I'm cool!
