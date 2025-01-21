@@ -10,7 +10,7 @@ I'm Android Developer
 <!--END_SECTION:activity-->
 
 <h3>🎤 My Presentations & Speeches</h3>
-Coming soon
+- [Devenir développeur Mobile partant de zéro](https://docs.google.com/presentation/d/1T0nEUqOFGMmyE4Z2NpHhh8XgBisemvGSozJe3lC7hC0/edit?usp=sharing)
 
 <h3> 👋🏾 Say Hello! </h3>
 
