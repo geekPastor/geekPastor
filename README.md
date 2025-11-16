@@ -14,8 +14,6 @@ I love crafting mobile products that not only work well — but feel great.
 
 
 ## 🛠️ My Toolkit
-
-## 🛠️ My Toolkit
   ### Mobile Development (Android)
   
      - Languages: Kotlin, Java (basics)
@@ -61,8 +59,11 @@ Let's Connect! I'm always eager to collaborate on exciting projects, discuss new
 <!--END_SECTION:activity-->
 
 <h3>🎤 My Presentations & Speeches</h3>
+
 - ![Devenir développeur Mobile partant de zéro](https://docs.google.com/presentation/d/1T0nEUqOFGMmyE4Z2NpHhh8XgBisemvGSozJe3lC7hC0/edit?usp=sharing)
 - [Creer des applications pour tout type d'ecran avec JetPAck compose - Google I/O Extended Lubumbashi 2024]
+
+  
 ## Languages 
 
 -French (Fluent)
@@ -71,10 +72,11 @@ Let's Connect! I'm always eager to collaborate on exciting projects, discuss new
 
 
 ## 🌐 Socials:
-
-- ⚡ Fun fact: I love food, therefore I love interacting with new people (I believe everyone can share with me a new delicacy!)
-- 💬 Feel free to ![contact](https://x.com/geekPastor1) me about #AndroidDev, #Kotlin, Software engineering and Tech communities. Or just about anything that you want to know or discuss, I'm cool!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrinovic-mukeba-5aa765230/)
+ Feel free to contact me about #AndroidDev, #Kotlin, Software engineering and Tech communities. Or just about anything that you want to know or discuss, I'm cool!
+⚡ Fun fact: I love food, therefore I love interacting with new people (I believe everyone can share with me a new delicacy!)
+  
+- 💬 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:geekPastor1) 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrinovic-mukeba-5aa765230/)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=geekPastor&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
