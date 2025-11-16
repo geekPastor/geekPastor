@@ -62,10 +62,7 @@ Let's Connect! I'm always eager to collaborate on exciting projects, discuss new
 
 <h3>🎤 My Presentations & Speeches</h3>
 - ![Devenir développeur Mobile partant de zéro](https://docs.google.com/presentation/d/1T0nEUqOFGMmyE4Z2NpHhh8XgBisemvGSozJe3lC7hC0/edit?usp=sharing)
-
-<h3> 👋🏾 Say Hello! </h3>
-
-
+- [Creer des applications pour tout type d'ecran avec JetPAck compose - Google I/O Extended Lubumbashi 2024]
 ## Languages 
 
 -French (Fluent)
@@ -91,6 +88,6 @@ Let's Connect! I'm always eager to collaborate on exciting projects, discuss new
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Likeur&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=geekPastor&icon=0&color=0)](https://visitcount.itsvg.in)
 
 [![wakatime](https://wakatime.com/badge/user/018beec1-60d3-4470-b8f4-14f7c33c2029.svg)](https://wakatime.com/@018beec1-60d3-4470-b8f4-14f7c33c2029)
