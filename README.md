@@ -6,7 +6,7 @@ My name is Chrinovic Mukeba, I am 22 years old and I live in Lubumbashi, Democra
 
 - Mobile Development (Android)
 
-I’m passionate about transforming ideas into smooth, modern, and intuitive mobile experiences.
+(https://x.com/geekPastor1)I’m passionate about transforming ideas into smooth, modern, and intuitive mobile experiences.
 With Kotlin and Jetpack Compose, I focus on building fast, reliable, and user-friendly Android applications that feel natural and enjoyable to interact with.
 
 My priority is to create clean architectures, responsive UIs, and seamless performance across all devices, while ensuring every feature delivers real value to users.
@@ -61,7 +61,7 @@ Let's Connect! I'm always eager to collaborate on exciting projects, discuss new
 <h3>🎤 My Presentations & Speeches</h3>
 
 - ![Devenir développeur Mobile partant de zéro](https://docs.google.com/presentation/d/1T0nEUqOFGMmyE4Z2NpHhh8XgBisemvGSozJe3lC7hC0/edit?usp=sharing)
-- [Creer des applications pour tout type d'ecran avec JetPAck compose - Google I/O Extended Lubumbashi 2024]
+- [Creer des applications pour tout type d'ecran avec JetPAck compose - Google I/O Extended Lubumbashi 2024](https://docs.google.com/presentation/d/1T0nEUqOFGMmyE4Z2NpHhh8XgBisemvGSozJe3lC7hC0/edit?usp=sharing)
 
   
 ## Languages 
@@ -75,7 +75,7 @@ Let's Connect! I'm always eager to collaborate on exciting projects, discuss new
  Feel free to contact me about #AndroidDev, #Kotlin, Software engineering and Tech communities. Or just about anything that you want to know or discuss, I'm cool!
 ⚡ Fun fact: I love food, therefore I love interacting with new people (I believe everyone can share with me a new delicacy!)
   
-- 💬 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:geekPastor1) 
+- ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:geekPastor1) 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrinovic-mukeba-5aa765230/)
 
 # 📊 GitHub Stats:
