@@ -6,7 +6,7 @@ My name is Chrinovic Mukeba, I am 22 years old and I live in Lubumbashi, Democra
 
 - Mobile Development (Android)
 
-(https://x.com/geekPastor1)I’m passionate about transforming ideas into smooth, modern, and intuitive mobile experiences.
+I’m passionate about transforming ideas into smooth, modern, and intuitive mobile experiences.
 With Kotlin and Jetpack Compose, I focus on building fast, reliable, and user-friendly Android applications that feel natural and enjoyable to interact with.
 
 My priority is to create clean architectures, responsive UIs, and seamless performance across all devices, while ensuring every feature delivers real value to users.
@@ -77,11 +77,13 @@ Let's Connect! I'm always eager to collaborate on exciting projects, discuss new
   
 - ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:geekPastor1) 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrinovic-mukeba-5aa765230/)
-
+- 
+<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=geekPastor&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=geekPastor&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=geekPastor&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+-->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=geekPastor&theme=radical&no-frame=false&no-bg=false&margin-w=4)
